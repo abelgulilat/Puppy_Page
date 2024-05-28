@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.puppylover{
+    text-align: center;
+    background-color: rgba(72, 72, 212, 0.822);
+    color: white;
+    padding: 5px;
+}
+.puppy{ 
+    width: 90%; 
+    padding: 5%;
+}
+.puppyupper{
+    display: flex;
+}
+.alpha{
+    width: 33.33333%;
+}
+.puppy01{
+    width: 33.3333%;
+    padding-right: 5px;
+}
+.puppy02{
+    width: 33.3333%;
+    padding-left: 5px;
+}
+.puppy .puppyupper .alpha{
+    
+    background-color: brown;
+    font-size:  64px;
+    text-align: center;
+    align-content: center;
+}
+.alphap {
+    padding: 15px 0;
+}
+.puppymid{
+    text-align: center;
+    
+}
+.puppylower{
+    display: flex;
+}
+.puppy03,.puppy04{
+    width: 50%;
+}
+.puppy03{
+    padding-right: 5px;
+}
+.puppy04{
+    padding-left: 5px;
+}
+footer{
+    text-align: center;
+    background-color: rgba(72, 72, 212, 0.822);
+    color: white;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
